@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated project outputs
+data/analyses/
+data/chroma_db/
+data/results/
+
+# Local scratch and delivery artifacts
+abc.py
+BUGFIX_ANALYSIS_KEYERROR.md
+DELIVERY_SUMMARY.md
+IMPLEMENTATION_COMPLETE.md
+SESSION_COMPLETE.md
+ROADMAP.md
+docs/
